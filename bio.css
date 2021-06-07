@@ -1,0 +1,21 @@
+
+body {
+    background-color: darkslateblue;
+}
+hr {
+    color: gray;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+}
+p {
+    font-size: large;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
