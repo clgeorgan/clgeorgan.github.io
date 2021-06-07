@@ -24,4 +24,10 @@ a:visited {
     font-size: large;
     font-weight: bold;
 }
+img {
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+    width: auto;
+}
 
