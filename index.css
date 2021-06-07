@@ -8,3 +8,20 @@ h1 {
     font-size: xx-large;
     font-weight: bold;
 }
+hr {
+    color: gray;
+}
+p {
+    text-align: center;
+}
+a:link {
+    color:  white;
+    font-size: large;
+    font-weight: bold;
+}
+a:visited {
+    color: gray;
+    font-size: large;
+    font-weight: bold;
+}
+
