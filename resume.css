@@ -1,0 +1,25 @@
+
+body {
+    background-color: darkslateblue;
+}
+hr {
+    color: gray;
+}
+h1 {
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+}
+h2 {
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    font-weight: bold;
+}
+ul {
+    font-size: medium;
+    width: 750px;
+    text-align: left;
+    color: white;
+}
